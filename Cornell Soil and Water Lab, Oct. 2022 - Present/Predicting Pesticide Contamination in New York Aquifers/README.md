@@ -1,4 +1,3 @@
-# coding work, presentations, reports, and other projects 🌀🤠❗️
+# Predicting Pesticide Conamination in New York Aquifers
 
-navigate through the different folders to see my past/ongoing work samples
-
+Repository link: https://github.com/izguenther6/orie4741-final
