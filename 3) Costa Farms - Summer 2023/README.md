@@ -1,4 +1,4 @@
-# Investigation of Controlled-Release Fertilizer Efficacy ☀️🪻⏳
+# Investigation of Controlled-Release Fertilizers ☀️🪻⏳
 SUMMARY
 - helped conduct experimental study on the performance of four different controlled-release fertilizers
 
