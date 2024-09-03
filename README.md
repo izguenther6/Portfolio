@@ -10,7 +10,7 @@
 
 * Collaborative project for Cornell Soil & Water Lab and NY Department of Environmental Conservation
 * Building a Gradient Boosting binary classifer model to predict whether or not pesticides will leach
-* [read more](https://github.com/izguenther6/Portfolio/tree/028259ee8e2241c11f714b1a845405c5bc4d4392/1%29%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present)
+* [read more](https://github.com/izguenther6/Portfolio/tree/main/1%29%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers)
 * 
 
 </details>
@@ -22,7 +22,7 @@
 
 * Internship project with Costa Farms in Miami, FL
 * Performed experimental study on the efficacy of different controlled-release fertilizers
-* [read more](https://github.com/izguenther6/Portfolio/tree/main/1%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers](https://github.com/izguenther6/Portfolio/tree/main/3)%20Costa%20Farms%20-%20Summer%202023)
+* [read more](https://github.com/izguenther6/Portfolio/tree/main/3%29%20Costa%20Farms%20-%20Summer%202023)
 
 </details>
 
@@ -31,7 +31,7 @@
 
 * Research project with Cornell Soil & Water Lab
 * Studied how water infiltrates soil 
-* [read more](https://github.com/izguenther6/Portfolio/tree/main/1%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers](https://github.com/izguenther6/Portfolio/tree/main/3)%20Costa%20Farms%20-%20Summer%202023](https://github.com/izguenther6/Portfolio/tree/main/2)%20Cornell%20PRO-DAIRY%2C%20Jan.%202024%20-%20Present%20/Covered%20Storage%20Mass%20Balances)
+* [read more](https://github.com/izguenther6/Portfolio/tree/main/2%29%20Cornell%20PRO-DAIRY%2C%20Jan.%202024%20-%20Present%20/Covered%20Storage%20Mass%20Balances)
 
 </details>
 
@@ -40,7 +40,7 @@
 
 * Research project with Cornell PRO-DAIRY
 * Calculated the economic savings from covered manure storages
-* [read more](https://github.com/izguenther6/Portfolio/tree/main/1%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers](https://github.com/izguenther6/Portfolio/tree/main/3)%20Costa%20Farms%20-%20Summer%202023](https://github.com/izguenther6/Portfolio/tree/main/2)%20Cornell%20PRO-DAIRY%2C%20Jan.%202024%20-%20Present%20/Covered%20Storage%20Mass%20Balances)
+* [read more](https://github.com/izguenther6/Portfolio/tree/main/2%29%20Cornell%20PRO-DAIRY%2C%20Jan.%202024%20-%20Present%20/Covered%20Storage%20Mass%20Balances)
 
 </details>
 
