@@ -10,7 +10,8 @@
 
 * Collaborative project for Cornell Soil & Water Lab and NY Department of Environmental Conservation
 * Building a Gradient Boosting binary classifer model to predict whether or not pesticides will leach
-* [read more](https://github.com/izguenther6/Portfolio/tree/main/1)
+* [read more](https://github.com/izguenther6/Portfolio/tree/028259ee8e2241c11f714b1a845405c5bc4d4392/1%29%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present)
+* 
 
 </details>
 
