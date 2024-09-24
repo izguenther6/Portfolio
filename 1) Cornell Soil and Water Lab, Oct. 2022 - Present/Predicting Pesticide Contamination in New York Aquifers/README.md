@@ -1,6 +1,7 @@
 # Predicting Pesticide Conamination in New York Aquifers 🌱💦🗽
 
-*Please note that the code/output is currently confidential and cannot be shared.*
+*Please note that the code/output is currently confidential and cannot be shared.  
+We will be publishing a 2023 Annual Report soon.*
 
 SUMMARY
 - over the past 3 years, the Cornell Soil & Water Lab has collaborated with the NYSDEC to test groundwater        samples around the state for pesticide contamination
