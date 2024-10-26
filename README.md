@@ -6,7 +6,7 @@
 ## Current Projects
 
 <details>
-<summary>Machine Learning for Pesticide Leaching</summary>
+<summary>Machine Learning for Pesticide Leaching (Python)</summary>
 
 * Collaborative project for Cornell Soil & Water Lab and NYS Department of Environmental Conservation
 * Building a Gradient Boosting binary classifer model to predict whether or not pesticides will leach
@@ -17,7 +17,7 @@
 ## Past Projects
 
 <details>
-<summary>Investigation of Controlled-Release Fertilizers</summary>
+<summary>Investigation of Controlled-Release Fertilizers (RStudio) </summary>
 
 * Internship project with Costa Farms in Miami, FL
 * Performed experimental study on the efficacy of different controlled-release fertilizers
@@ -26,7 +26,7 @@
 </details>
 
 <details>
-<summary>Research on Unstable Finger Flow</summary>
+<summary>Research on Unstable Finger Flow (MATLAB)</summary>
 
 * Research project with Cornell Soil & Water Lab
 * Studied how water infiltrates soil 
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary>Economic Savings from Covered Manure Storages</summary>
+<summary>Economic Savings from Covered Manure Storages (Python)</summary>
 
 * Research project with Cornell PRO-DAIRY
 * Calculated the economic savings from covered manure storages
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-<summary>Vacuum Drying of Grapes to Raisin</summary>
+<summary>Vacuum Drying of Grapes to Raisin (COMSOL)</summary>
 
 * Class project for BEE 4630: Digital Food Engineering
 * Created COMSOL simulation of how a grape is vacuum dried to a raisin
