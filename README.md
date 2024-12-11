@@ -1,6 +1,6 @@
 # Portfolio Overview 🌀🤠❗️
 
-* below is a brief summary of my past/present work with links to work samples
+* below is a brief summary of past/present projects
 * you can also navigate through the folders above on your own!
 
 ## Current Projects
@@ -31,6 +31,15 @@
 * Research project with Cornell Soil & Water Lab
 * Studied how water infiltrates soil 
 * [read more](https://github.com/izguenther6/Portfolio/tree/main/1%29%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present/Unstable%20Finger%20Flow)
+
+</details>
+
+<details>
+<summary>Case Study on Dairy Farm Anaerobic Digester</summary>
+
+* Research project with Cornell PRO-DAIRY
+* Co-authored report on a dairy farm's anaerobic digester renovation process
+* [read more](https://github.com/izguenther6/Portfolio/tree/main/2%29%20Cornell%20PRO-DAIRY%2C%20Jan.%202024%20-%20Present%20/Wagner%20Farms%20Case%20Study)
 
 </details>
 
