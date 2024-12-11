@@ -1,10 +1,10 @@
-# Covered Manure Storage Mass Balances 💩🐮💰
-Repository Link: https://github.com/izguenther6/prodairy/tree/main/covered%20storage%20mass%20balances
+# Wagner Farms Case Study 🐄⛽️🔨
+pdf can be found in this folder or at this link: https://hdl.handle.net/1813/116079
 
 SUMMARY
-- this code used local weather data and empirical manure evaporation equations to perform mass balances on       precipitation in covered manure storages around upstate New York
+- updated case study for Wagner Farms' anaerobic digestion process...they renovated and repaired numerous parts of their original system which was constructed in 2010
 
-- the mass balance results were then used to evaluate the economic efficacy of the covered manure storages
+- the report is published on the PRO-DAIRY website for others to reference
 
 
 
