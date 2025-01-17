@@ -1,6 +1,6 @@
 # Predicting Pesticide Contamination in New York Aquifers with Machine Learning 🌱💦🗽
 
-*Please note that the code/output is currently confidential and cannot be shared.  
+*Please note that the code/output is currently confidential.  
 We will be publishing a 2023 Annual Report soon.*
 
 SUMMARY
