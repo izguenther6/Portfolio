@@ -8,10 +8,9 @@ SUMMARY
 
 - we are now using this data to build machine learning models that predict pesticide leaching events...since the code/output is currently confidential, here's a list of key components being implemented:
   - XGBoost binary classification
-  - hyperparameter tuning (max depth, L1/L2 regularizers)
-  - KFold cross-validation with custom model scorer (f-beta) and modified probability threshold for decision
+  - KFold cross-validation with hyperparameter/decision threshold threshold tuning
   - ordinal feature engineering for categorical data
-  - impurity-based feature importances and permutation feature importances
+  - SHAP importance analysis
   - adjustments for imbalanced class labels
 
-- more info on the overall project can be found here: https://soilandwaterlab.cornell.edu/wp-content/uploads/static/dec-web/
+- more info on the overall project can be found here: https://soilandwaterlab.cornell.edu/upstate-new-york-pesticides-in-water-2021-2025/
