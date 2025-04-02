@@ -18,20 +18,20 @@
 ## Past Projects
 
 <details>
-<summary>Investigation of Controlled-Release Fertilizers (RStudio) </summary>
-
-* Internship project with Costa Farms in Miami, FL
-* Performed experimental study on the efficacy of different controlled-release fertilizers
-* [read more](https://github.com/izguenther6/Portfolio/tree/main/3%29%20Costa%20Farms%20-%20Summer%202023)
-
-</details>
-
-<details>
 <summary>Case Study on Dairy Farm Anaerobic Digester</summary>
 
 * Research project with Cornell PRO-DAIRY
 * Co-authored report on a dairy farm's anaerobic digester renovation process
 * [read more](https://github.com/izguenther6/Portfolio/tree/main/2%29%20Cornell%20PRO-DAIRY%2C%20Jan.%202024%20-%20Present%20/Wagner%20Farms%20Case%20Study)
+
+</details>
+
+<details>
+<summary>Investigation of Controlled-Release Fertilizers (RStudio) </summary>
+
+* Internship project with Costa Farms in Miami, FL
+* Performed experimental study on the efficacy of different controlled-release fertilizers
+* [read more](https://github.com/izguenther6/Portfolio/tree/main/3%29%20Costa%20Farms%20-%20Summer%202023)
 
 </details>
 
