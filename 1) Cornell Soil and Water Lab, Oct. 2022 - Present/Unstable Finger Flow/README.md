@@ -2,8 +2,7 @@
 
 SUMMARY
 - aided Naaran Brindt (post-doc, Cornell Soil and Water Lab) in writing code that was used for the first set of 
-  experiments in this paper: https://www.sciencedirect.com/science/article/pii/S0309170824000484 ...code and paper
-  are also in this folder
+  experiments in this paper: https://www.sciencedirect.com/science/article/pii/S0309170824000484 ...code is above in this folder
 
 - overall purpose was to better visualize water movement through pores at the fingertip of an unstable finger flow
 
