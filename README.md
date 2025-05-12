@@ -36,17 +36,6 @@
 </details>
 
 <details>
-<summary>Research on Unstable Finger Flow (MATLAB)</summary>
-
-* Research project with Cornell Soil & Water Lab
-* Studied how water infiltrates soil 
-* [read more](https://github.com/izguenther6/Portfolio/tree/main/1%29%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present/Unstable%20Finger%20Flow)
-
-</details>
-
-
-
-<details>
 <summary>Vacuum Drying of Grapes to Raisin (COMSOL)</summary>
 
 * Class project for BEE 4630: Digital Food Engineering
