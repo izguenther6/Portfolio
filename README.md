@@ -4,7 +4,7 @@
 * you can also navigate through the folders above on your own!
 * my CV can be found in the files above or by [clicking here](https://github.com/izguenther6/Portfolio/blob/main/CV%20-%20Isaiah%20Guenther.pdf)
 
-## Current Projects
+## Projects
 
 <details>
 <summary>Machine Learning for Pesticide Leaching (Python)</summary>
@@ -14,8 +14,6 @@
 * [read more](https://github.com/izguenther6/Portfolio/tree/main/1%29%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers)
 
 </details>
-
-## Past Projects
 
 <details>
 <summary>Case Study on Dairy Farm Anaerobic Digester</summary>
