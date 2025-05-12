@@ -1,7 +1,7 @@
 # Portfolio Overview 🌀🤠❗️
 
 * follow the dropdown links below or navigate the folders above on your own!
-* CV: [clicking here](https://github.com/izguenther6/Portfolio/blob/main/CV%20-%20Isaiah%20Guenther.pdf)
+* [click here to see CV](https://github.com/izguenther6/Portfolio/blob/main/CV%20-%20Isaiah%20Guenther.pdf) or find it above in the main folder
 
 ## Projects
 
