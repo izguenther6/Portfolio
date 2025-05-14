@@ -1,9 +1,12 @@
 # Predicting Pesticide Contamination in New York Aquifers with Machine Learning 🌱💦🗽
 
-*Please note that the code/output is currently confidential.  
-We will be publishing reports/papers soon.*
+## Outputs:
 
-SUMMARY
+[Poster: 2025 Research Symposium - Cornell Biological & Environmental Engineering Department](https://github.com/izguenther6/Portfolio/blob/main/1%29%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers/ML%20final%20poster%202025.pdf)
+
+*more reports/papers coming soon*
+
+## Summary
 - over the past 3 years, the Cornell Soil & Water Lab has collaborated with the NYSDEC to test groundwater samples around the state for pesticide contamination
 
 - we are now using this data to build machine learning models that predict pesticide leaching events...since the code/output is currently confidential, here's a list of key components being implemented:
