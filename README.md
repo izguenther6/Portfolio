@@ -15,6 +15,13 @@
 </details>
 
 <details>
+<summary>Soil & Water Lab Website (WordPress)</summary>
+
+* Built and maintained lab website: https://soilandwaterlab.cornell.edu/
+
+</details>
+
+<details>
 <summary>Case Study on Dairy Farm Anaerobic Digester</summary>
 
 * Research project with Cornell PRO-DAIRY
