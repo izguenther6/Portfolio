@@ -2,7 +2,7 @@
 
 ## Outputs:
 
-[Poster: 2025 Research Symposium - Cornell Biological & Environmental Engineering Department](https://github.com/izguenther6/Portfolio/blob/main/1%29%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers/ML%20final%20poster%202025.pdf)
+[Poster: 2025 Research Symposium - Cornell Biological & Environmental Engineering Department](https://github.com/izguenther6/Portfolio/blob/main/1%29%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers/March%202025%20-%20Cornell%20BEE%20Research%20Symposium%20Poster.pdf)
 
 *more reports/papers coming soon*
 
