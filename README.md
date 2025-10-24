@@ -47,3 +47,7 @@
 * [read more](https://github.com/izguenther6/Portfolio/tree/main/4%29%20BEE%204630%20-%20Digital%20Food%20Engineering%2C%20Spring%202023)
 
 </details>
+
+## Other Documents
+* [CV](https://github.com/izguenther6/Portfolio/blob/main/CV%20-%20Isaiah%20Guenther.pdf)
+* [Unofficial Transcript](https://github.com/izguenther6/Portfolio/blob/main/Unofficial%20Transcript%20-%20Isaiah%20Guenther.pdf)
