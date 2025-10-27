@@ -45,6 +45,7 @@
 * Mini-project with Cornell Soil & Water Lab
 * Wrote code to track moving water fingertip in video using color analysis
 * [read more](https://github.com/izguenther6/Portfolio/tree/main/1-Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20May%202025/Unstable%20Finger%20Flow)
+</details>
 
 <details>
 <summary>Vacuum Drying of Grapes to Raisin (COMSOL)</summary>
