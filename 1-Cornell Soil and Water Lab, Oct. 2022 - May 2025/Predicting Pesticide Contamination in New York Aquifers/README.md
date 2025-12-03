@@ -1,4 +1,4 @@
-# Predicting Pesticide Contamination in New York Aquifers with Machine Learning 🌱💦🗽
+# Predicting Pesticide Contamination in New York Aquifers with Machine Learning and 🌱💦🗽
 
 ## Outputs:
 [Presentation: May 2025 Meeting with NYSDEC](https://github.com/izguenther6/Portfolio/blob/main/1-Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20May%202025/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers/May%202025%20-%20Presentation%20to%20NYSDEC%20.pdf)
@@ -14,5 +14,6 @@
   - ordinal feature engineering for categorical data
   - SHAP importance analysis
   - adjustments for imbalanced class labels
+  - comparison to theoretical models
 
 - more info on the overall project can be found here: https://soilandwaterlab.cornell.edu/upstate-new-york-pesticides-in-water-2021-2025/
