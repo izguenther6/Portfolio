@@ -10,7 +10,7 @@
 
 * Collaborative project for Cornell Soil & Water Lab and NYS Department of Environmental Conservation
 * Building a hydrogeological model and XGBoost binary classifer model to predict whether or not pesticides will leach
-* [read more](https://github.com/izguenther6/Portfolio/tree/main/1%29%20Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20Present/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers)
+* [read more](https://github.com/izguenther6/Portfolio/tree/main/1-Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20May%202025/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers)
 
 </details>
 
