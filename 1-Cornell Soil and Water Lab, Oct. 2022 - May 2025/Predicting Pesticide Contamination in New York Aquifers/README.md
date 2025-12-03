@@ -6,7 +6,7 @@
 [Poster: March 2025 Research Symposium - Cornell Biological & Environmental Engineering Department](https://github.com/izguenther6/Portfolio/blob/main/1-Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20May%202025/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers/March%202025%20-%20Cornell%20BEE%20Research%20Symposium%20Poster.pdf)
 
 ## Summary
-- over the past 3 years, the Cornell Soil & Water Lab has collaborated with the NYSDEC to test groundwater samples around the state for pesticide contamination
+- since 2021, the Cornell Soil & Water Lab has collaborated with the NYSDEC to test groundwater samples around the state for pesticide contamination
 
 - the data is now being used to build machine learning models that predict pesticide leaching events...since the code is currently confidential, here's a list of key components being implemented:
   - XGBoost binary classification
