@@ -1,4 +1,4 @@
-# Predicting Pesticide Contamination in New York Aquifers with Machine Learning and 🌱💦🗽
+# Predicting Pesticide Contamination in New York Aquifers with Machine Learning and Theoretical Models 🌱💦🗽
 
 ## Outputs:
 [Presentation: May 2025 Meeting with NYSDEC](https://github.com/izguenther6/Portfolio/blob/main/1-Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20May%202025/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers/May%202025%20-%20Presentation%20to%20NYSDEC%20.pdf)
