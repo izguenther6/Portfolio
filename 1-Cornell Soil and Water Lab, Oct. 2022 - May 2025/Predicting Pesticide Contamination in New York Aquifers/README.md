@@ -8,7 +8,7 @@
 ## Summary
 - over the past 3 years, the Cornell Soil & Water Lab has collaborated with the NYSDEC to test groundwater samples around the state for pesticide contamination
 
-- we are now using this data to build machine learning models that predict pesticide leaching events...since the code is currently confidential, here's a list of key components being implemented:
+- the data is now being used to build machine learning models that predict pesticide leaching events...since the code is currently confidential, here's a list of key components being implemented:
   - XGBoost binary classification
   - KFold cross-validation with hyperparameter/decision threshold threshold tuning
   - ordinal feature engineering for categorical data
