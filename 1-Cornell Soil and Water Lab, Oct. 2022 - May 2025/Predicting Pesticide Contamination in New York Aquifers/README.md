@@ -10,9 +10,11 @@
 [2023 Annual Report: Water Quality Monitoring for Pesticidesin Upstate New York](https://github.com/izguenther6/Portfolio/blob/main/1-Cornell%20Soil%20and%20Water%20Lab%2C%20Oct.%202022%20-%20May%202025/Predicting%20Pesticide%20Contamination%20in%20New%20York%20Aquifers/Water%20Quality%20Monitoring%20for%20Pesticides%20in%20Upstate%20New%20York%2C%202023%20Annual%20Report.pdf)
 
 ## Summary
-- since 2021, the Cornell Soil & Water Lab has collaborated with the NYSDEC to test groundwater samples around the state for pesticide contamination
+- since 2021, the Cornell Soil & Water Lab & NYSDEC have been testing groundwater around Upstate NY for pesticide contamination
 
-- the data is now being used to build machine learning models that predict pesticide leaching events...since the code is currently confidential, here's a list of key components being implemented:
+- the data is now being used to build / validate various leaching predictive models
+
+- i was the lead developer of our machine learning approach, here's a list of key implementations:
   - XGBoost binary classification
   - KFold cross-validation with hyperparameter/decision threshold threshold tuning
   - ordinal feature engineering for categorical data
@@ -20,4 +22,4 @@
   - adjustments for imbalanced class labels
   - comparison to theoretical models
 
-- more info on the overall project can be found here: https://soilandwaterlab.cornell.edu/upstate-new-york-pesticides-in-water-2021-2025/
+- code is currently confidential, more info on the overall project can be found here: https://soilandwaterlab.cornell.edu/upstate-new-york-pesticides-in-water-2021-2025/
