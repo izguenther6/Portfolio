@@ -1,6 +1,6 @@
 # Portfolio Overview 🌀🤠❗️
 
-* follow the dropdown links below or navigate the folders above on your own!
+Follow the dropdown links below or navigate the folders above on your own!
 
 ## Projects
 
