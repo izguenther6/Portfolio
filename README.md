@@ -3,7 +3,7 @@
 ⭐️ Waste / water quality, hydrogeology, & agricultural system analysis  
 ⭐️ Bio-process modeling, heat & mass transfer, control volume analysis  
 ⭐️ Machine learning, data analysis, scientific communication, & research  
-⚙️ Python, R, MATLAB, Excel, COMSOL
+⚙️ Python, R, MATLAB, Excel, COMSOL, WordPress, Canva
 
 Follow the dropdown links below or navigate the folders above on your own!
 
