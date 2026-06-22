@@ -35,7 +35,7 @@ Follow the dropdown links below or navigate the folders above on your own!
 </details>
 
 <details>
-<summary>Investigation of Controlled-Release Fertilizers (RStudio) </summary>
+<summary>Investigation of Controlled-Release Fertilizers (R) </summary>
 
 * Internship project with Costa Farms in Miami, FL
 * Performed experimental study on the efficacy of different controlled-release fertilizers
